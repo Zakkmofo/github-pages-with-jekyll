@@ -1,3 +1,3 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+ Welcome World
+ 
+ This is the freedom forum where like minded human beings come together to share thoughts and ideas.
